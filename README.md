@@ -1,1 +1,1 @@
-# TOP-Foundations-P2-LandingPage
+Testing Git and Github Functionality for project 2 of The Odin Project. 
